@@ -1,4 +1,7 @@
 # YOLO数据转换代码
+### vedio_to_pictures
+
+`vedio_to_pictures`这个是将视频逐帧的转化为图片，改一下自己视频的名字和存储的路径
 
 ### split_train_val.py
 
